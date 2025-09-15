@@ -232,7 +232,7 @@ in: Proc. 23st IEEE Int. Symposium on Robot and Human Interactive Communication 
          |   |-- CMZ2/
     -----------------
 
-  * [SUMS](https://github.com/thuhci/SUMS/)
+* [SUMS](https://github.com/thuhci/SUMS/)
     * Ke Liu*, Jiankai Tang*(*Co-first Author), Zhang Jiang, Yuntao Wang, Xiaojing Liu, Dong Li, Yuanchun Shi, "Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes", IEEE UIC, 2024
     -----------------
         data/SUMS/
@@ -258,7 +258,7 @@ in: Proc. 23st IEEE Int. Symposium on Robot and Human Interactive Communication 
         |       |...
     -----------------
 
-  * [LADH](https://github.com/McJackTang/FusionVitals/)
+* [LADH](https://github.com/McJackTang/FusionVitals/)
     * Xulin Ma, Jiankai Tang, Zhang Jiang, Songqin Cheng, Yuanchun Shi, Dong Li, Xin Liu, Daniel Mcduff, Xiaojing Liu, Yuntao Wang, "Non-Contact Health Monitoring During Daily Personal Care Routines", IEEE-EMBS BSN, 2025
     -----------------
         data/LADH/
